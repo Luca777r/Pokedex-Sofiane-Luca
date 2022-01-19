@@ -1,6 +1,6 @@
 export type pokemon = {
   nom: string;
-  taille: number;
+  taille: string;
   numero: number;
   type: string;
   poids: string;
